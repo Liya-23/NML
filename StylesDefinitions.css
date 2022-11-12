@@ -1,0 +1,37 @@
+head{color: blue;
+    text-align: center;
+    font-size: larger;}
+
+
+h1{color: blue;
+  text-align: center;}
+
+hr{size: 7;}
+
+body{ background: greenyellow;}
+
+p{text-align: right;
+color: black;
+font-size: larger;}
+
+title{color: blue;}
+
+table,th ,td{ width: 60%;
+    border: 1px solid black;
+    border-collapse: collapse;
+border-width: 40;}
+
+th,td{padding: 16px;
+     text-align: Left;}
+
+img{width: 240; height: 200;}     
+
+html{color: black;}
+
+button{border: none;
+    color: blue;
+    text-align: center;
+    margin: 5px 2px;
+    cursor: pointer; 
+ }
+ 
